@@ -1,0 +1,21 @@
+.error-404-title {
+	margin-top:20px;
+	text-align: center;
+	font-size:28px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color:#F03800;
+}
+
+.error-404-message {
+	text-align: center;
+	margin-top:40px;
+	font-size:18px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.error-404-contact {
+	text-align: center;
+	margin-top:40px;
+	font-size:16px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}

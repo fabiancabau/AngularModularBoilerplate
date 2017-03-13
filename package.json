@@ -1,0 +1,21 @@
+{
+  "name": "AngularModularBoilerplate",
+  "license": "MIT",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-ng-annotate": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DelighterrInc/Plugin-Webapp"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
